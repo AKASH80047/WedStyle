@@ -1,0 +1,756 @@
+{
+  "catalogVersion": 1,
+  "notice": "All entries are AI-generated design concepts, not verified products or vendor stock.",
+  "designs": [
+    {
+      "id": "panetar_01",
+      "imagePath": "assets/images/bridal/panetar_01.png",
+      "collection": "Panetar Sarees",
+      "productName": "Panetar Sarees Design 01",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "red",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "panetar_02",
+      "imagePath": "assets/images/bridal/panetar_02.png",
+      "collection": "Panetar Sarees",
+      "productName": "Panetar Sarees Design 02",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "red",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "panetar_03",
+      "imagePath": "assets/images/bridal/panetar_03.png",
+      "collection": "Panetar Sarees",
+      "productName": "Panetar Sarees Design 03",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "red",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "panetar_04",
+      "imagePath": "assets/images/bridal/panetar_04.png",
+      "collection": "Panetar Sarees",
+      "productName": "Panetar Sarees Design 04",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "red",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "panetar_05",
+      "imagePath": "assets/images/bridal/panetar_05.png",
+      "collection": "Panetar Sarees",
+      "productName": "Panetar Sarees Design 05",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "red",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "panetar_06",
+      "imagePath": "assets/images/bridal/panetar_06.png",
+      "collection": "Panetar Sarees",
+      "productName": "Panetar Sarees Design 06",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "red",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "panetar_07",
+      "imagePath": "assets/images/bridal/panetar_07.png",
+      "collection": "Panetar Sarees",
+      "productName": "Panetar Sarees Design 07",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "red",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "panetar_08",
+      "imagePath": "assets/images/bridal/panetar_08.png",
+      "collection": "Panetar Sarees",
+      "productName": "Panetar Sarees Design 08",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "red",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "panetar_09",
+      "imagePath": "assets/images/bridal/panetar_09.png",
+      "collection": "Panetar Sarees",
+      "productName": "Panetar Sarees Design 09",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "red",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "panetar_10",
+      "imagePath": "assets/images/bridal/panetar_10.png",
+      "collection": "Panetar Sarees",
+      "productName": "Panetar Sarees Design 10",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "red",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "gharchola_01",
+      "imagePath": "assets/images/bridal/gharchola_01.png",
+      "collection": "Gharchola Sarees",
+      "productName": "Gharchola Sarees Design 01",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "gharchola_02",
+      "imagePath": "assets/images/bridal/gharchola_02.png",
+      "collection": "Gharchola Sarees",
+      "productName": "Gharchola Sarees Design 02",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "gharchola_03",
+      "imagePath": "assets/images/bridal/gharchola_03.png",
+      "collection": "Gharchola Sarees",
+      "productName": "Gharchola Sarees Design 03",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "gharchola_04",
+      "imagePath": "assets/images/bridal/gharchola_04.png",
+      "collection": "Gharchola Sarees",
+      "productName": "Gharchola Sarees Design 04",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "gharchola_05",
+      "imagePath": "assets/images/bridal/gharchola_05.png",
+      "collection": "Gharchola Sarees",
+      "productName": "Gharchola Sarees Design 05",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "gharchola_06",
+      "imagePath": "assets/images/bridal/gharchola_06.png",
+      "collection": "Gharchola Sarees",
+      "productName": "Gharchola Sarees Design 06",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "gharchola_07",
+      "imagePath": "assets/images/bridal/gharchola_07.png",
+      "collection": "Gharchola Sarees",
+      "productName": "Gharchola Sarees Design 07",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "gharchola_08",
+      "imagePath": "assets/images/bridal/gharchola_08.png",
+      "collection": "Gharchola Sarees",
+      "productName": "Gharchola Sarees Design 08",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "gharchola_09",
+      "imagePath": "assets/images/bridal/gharchola_09.png",
+      "collection": "Gharchola Sarees",
+      "productName": "Gharchola Sarees Design 09",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "gharchola_10",
+      "imagePath": "assets/images/bridal/gharchola_10.png",
+      "collection": "Gharchola Sarees",
+      "productName": "Gharchola Sarees Design 10",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "patola_01",
+      "imagePath": "assets/images/bridal/patola_01.png",
+      "collection": "Patola-Inspired Bridal Wear",
+      "productName": "Patola-Inspired Bridal Wear Design 01",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "green",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "patola_02",
+      "imagePath": "assets/images/bridal/patola_02.png",
+      "collection": "Patola-Inspired Bridal Wear",
+      "productName": "Patola-Inspired Bridal Wear Design 02",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "green",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "patola_03",
+      "imagePath": "assets/images/bridal/patola_03.png",
+      "collection": "Patola-Inspired Bridal Wear",
+      "productName": "Patola-Inspired Bridal Wear Design 03",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "green",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "patola_04",
+      "imagePath": "assets/images/bridal/patola_04.png",
+      "collection": "Patola-Inspired Bridal Wear",
+      "productName": "Patola-Inspired Bridal Wear Design 04",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "green",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "patola_05",
+      "imagePath": "assets/images/bridal/patola_05.png",
+      "collection": "Patola-Inspired Bridal Wear",
+      "productName": "Patola-Inspired Bridal Wear Design 05",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "green",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "patola_06",
+      "imagePath": "assets/images/bridal/patola_06.png",
+      "collection": "Patola-Inspired Bridal Wear",
+      "productName": "Patola-Inspired Bridal Wear Design 06",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "green",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "bridal_lehenga_01",
+      "imagePath": "assets/images/bridal/bridal_lehenga_01.png",
+      "collection": "Gujarati Bridal Lehengas",
+      "productName": "Gujarati Bridal Lehengas Design 01",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "bridal_lehenga_02",
+      "imagePath": "assets/images/bridal/bridal_lehenga_02.png",
+      "collection": "Gujarati Bridal Lehengas",
+      "productName": "Gujarati Bridal Lehengas Design 02",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "bridal_lehenga_03",
+      "imagePath": "assets/images/bridal/bridal_lehenga_03.png",
+      "collection": "Gujarati Bridal Lehengas",
+      "productName": "Gujarati Bridal Lehengas Design 03",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "bridal_lehenga_04",
+      "imagePath": "assets/images/bridal/bridal_lehenga_04.png",
+      "collection": "Gujarati Bridal Lehengas",
+      "productName": "Gujarati Bridal Lehengas Design 04",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "bridal_lehenga_05",
+      "imagePath": "assets/images/bridal/bridal_lehenga_05.png",
+      "collection": "Gujarati Bridal Lehengas",
+      "productName": "Gujarati Bridal Lehengas Design 05",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "bridal_lehenga_06",
+      "imagePath": "assets/images/bridal/bridal_lehenga_06.png",
+      "collection": "Gujarati Bridal Lehengas",
+      "productName": "Gujarati Bridal Lehengas Design 06",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "bandhani_01",
+      "imagePath": "assets/images/bridal/bandhani_01.png",
+      "collection": "Bandhani and Chaniya Choli",
+      "productName": "Bandhani and Chaniya Choli Design 01",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "fuchsia",
+        "gold"
+      ],
+      "occasion": "Mehendi / Garba",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "bandhani_02",
+      "imagePath": "assets/images/bridal/bandhani_02.png",
+      "collection": "Bandhani and Chaniya Choli",
+      "productName": "Bandhani and Chaniya Choli Design 02",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "fuchsia",
+        "gold"
+      ],
+      "occasion": "Mehendi / Garba",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "bandhani_03",
+      "imagePath": "assets/images/bridal/bandhani_03.png",
+      "collection": "Bandhani and Chaniya Choli",
+      "productName": "Bandhani and Chaniya Choli Design 03",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "fuchsia",
+        "gold"
+      ],
+      "occasion": "Mehendi / Garba",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "bandhani_04",
+      "imagePath": "assets/images/bridal/bandhani_04.png",
+      "collection": "Bandhani and Chaniya Choli",
+      "productName": "Bandhani and Chaniya Choli Design 04",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "fuchsia",
+        "gold"
+      ],
+      "occasion": "Mehendi / Garba",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "bandhani_05",
+      "imagePath": "assets/images/bridal/bandhani_05.png",
+      "collection": "Bandhani and Chaniya Choli",
+      "productName": "Bandhani and Chaniya Choli Design 05",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "fuchsia",
+        "gold"
+      ],
+      "occasion": "Mehendi / Garba",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "bandhani_06",
+      "imagePath": "assets/images/bridal/bandhani_06.png",
+      "collection": "Bandhani and Chaniya Choli",
+      "productName": "Bandhani and Chaniya Choli Design 06",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "fuchsia",
+        "gold"
+      ],
+      "occasion": "Mehendi / Garba",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "contemporary_01",
+      "imagePath": "assets/images/bridal/contemporary_01.png",
+      "collection": "Contemporary Gujarati Bridal Wear",
+      "productName": "Contemporary Gujarati Bridal Wear Design 01",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "contemporary_02",
+      "imagePath": "assets/images/bridal/contemporary_02.png",
+      "collection": "Contemporary Gujarati Bridal Wear",
+      "productName": "Contemporary Gujarati Bridal Wear Design 02",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "contemporary_03",
+      "imagePath": "assets/images/bridal/contemporary_03.png",
+      "collection": "Contemporary Gujarati Bridal Wear",
+      "productName": "Contemporary Gujarati Bridal Wear Design 03",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "contemporary_04",
+      "imagePath": "assets/images/bridal/contemporary_04.png",
+      "collection": "Contemporary Gujarati Bridal Wear",
+      "productName": "Contemporary Gujarati Bridal Wear Design 04",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "contemporary_05",
+      "imagePath": "assets/images/bridal/contemporary_05.png",
+      "collection": "Contemporary Gujarati Bridal Wear",
+      "productName": "Contemporary Gujarati Bridal Wear Design 05",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "contemporary_06",
+      "imagePath": "assets/images/bridal/contemporary_06.png",
+      "collection": "Contemporary Gujarati Bridal Wear",
+      "productName": "Contemporary Gujarati Bridal Wear Design 06",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Ivory",
+        "maroon",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "complete_look_01",
+      "imagePath": "assets/images/bridal/complete_look_01.png",
+      "collection": "Complete Gujarati Bridal Looks",
+      "productName": "Complete Gujarati Bridal Looks Design 01",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "ivory",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "complete_look_02",
+      "imagePath": "assets/images/bridal/complete_look_02.png",
+      "collection": "Complete Gujarati Bridal Looks",
+      "productName": "Complete Gujarati Bridal Looks Design 02",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "ivory",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "complete_look_03",
+      "imagePath": "assets/images/bridal/complete_look_03.png",
+      "collection": "Complete Gujarati Bridal Looks",
+      "productName": "Complete Gujarati Bridal Looks Design 03",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "ivory",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "complete_look_04",
+      "imagePath": "assets/images/bridal/complete_look_04.png",
+      "collection": "Complete Gujarati Bridal Looks",
+      "productName": "Complete Gujarati Bridal Looks Design 04",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "ivory",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "complete_look_05",
+      "imagePath": "assets/images/bridal/complete_look_05.png",
+      "collection": "Complete Gujarati Bridal Looks",
+      "productName": "Complete Gujarati Bridal Looks Design 05",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "ivory",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    },
+    {
+      "id": "complete_look_06",
+      "imagePath": "assets/images/bridal/complete_look_06.png",
+      "collection": "Complete Gujarati Bridal Looks",
+      "productName": "Complete Gujarati Bridal Looks Design 06",
+      "description": "AI-generated Gujarati bridal fashion design concept. Not a verified physical product.",
+      "mainColors": [
+        "Red",
+        "ivory",
+        "gold"
+      ],
+      "occasion": "Wedding",
+      "imageSourceType": "AI-generated",
+      "virtualTryOnReferenceAvailable": false
+    }
+  ]
+}
